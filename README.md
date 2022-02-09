@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
 <h3 align="center">I am a mobile application developer passionate about working in technology and providing assistance,I enjoy working with include Swift, Xcode, Kotlin, Android</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif")
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
